@@ -1,0 +1,15 @@
+#Movie Recommendation Engine 
+
+My Movie Recommnedation engine works on data collected from movie lens Website.
+My input data set is 1M movie ratings which are not in a proper format.
+
+Apache Spark: I have used Apache Spark to process the data and list out few 
+interesting facts like favorite movie, most watched movie, most watched super hero and other cool things. My project was an academic project that I worked on 
+during my Master's degree. 
+
+Since it had a deadline which I had to meet, After parsing the raw data set, I hardcoded the values into respective HTML pages.
+I wish I could have used a real-time processing engine which shows the computations of the Dataset, but I did those computations before and after processing the results I hardcoded them into HTML pages.
+
+The real interesting fact about the project was the use of Apache Spark, an engine to analyze the raw data files and to make sense of the raw data.
+
+Please respond to me by email at archeanlokinindi05@gmail.com if you have any questions where you would like me to help you or contribute to the project.
